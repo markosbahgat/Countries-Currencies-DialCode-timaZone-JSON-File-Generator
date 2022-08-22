@@ -1,0 +1,22 @@
+{
+	"data": [
+		{ "name": "Egypt", "currency": "EGP", "code": "EG" },
+		{ "name": "United Arab Emirates", "currency": "AED", "code": "AE" },
+		{ "name": "Algeria", "currency": "DZD", "code": "DZ" },
+		{ "currency": "BHD", "name": "Bahrain", "code": "BA" },
+		{ "name": "Iraq", "currency": "IQD", "code": "IQ" },
+		{ "name": "Jordan", "currency": "JOD", "code": "JO" },
+		{ "name": "Kuwait", "currency": "KWD", "code": "KW" },
+		{ "name": "Lebanon", "currency": "LBP", "code": "LB" },
+		{ "name": "Libya", "code": "LY" },
+		{ "name": "Morocco", "currency": "MAD", "code": "MA" },
+		{ "name": "Oman", "currency": "OMR", "code": "OM" },
+		{ "name": "Qatar", "currency": "QAR", "code": "QA" },
+		{ "name": "Saudi Arabia", "currency": "SAR", "code": "SA" },
+		{ "name": "Sudan", "currency": "SDG", "code": "SE" },
+		{ "name": "Syria", "currency": "SYP", "code": "SY" },
+		{ "name": "Tunisia", "currency": "TND", "code": "TN" },
+		{ "name": "Palestine", "currency": "ILS", "code": "PS" },
+		{ "name": "Yemen", "currency": "YER", "code": "YE" }
+	]
+}
